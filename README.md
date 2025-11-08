@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Initialize Database
 ```bash
-python database_setup.py
+python databasesetup.py
 ```
 
 ### 4️⃣ Run the Flask API
@@ -57,12 +57,12 @@ python students_api.py
 
 ### 5️⃣ (Optional) Insert Bulk Students
 ```bash
-python bulk_insert_students.py
+python insertion.py
 ```
 
 ### 6️⃣ Generate PDF Report
 ```bash
-python student_report.py
+python report.py
 ```
 
 ---
@@ -101,7 +101,7 @@ Report file: `Student_Analytics_Report.pdf`
 
 **Hariom Tiwari**  
 🎓 Aspiring AI Automation & Data Analytics Engineer  
-📫 `hariom@example.com`
+📫 `hariomr2204t@gmail.com`
 
 ---
 
